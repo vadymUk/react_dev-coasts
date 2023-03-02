@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vadymUk/react_dev-coasts.git/static/css/main.7546986e.css",
+    "main.js": "/vadymUk/react_dev-coasts.git/static/js/main.3212b6db.js",
+    "index.html": "/vadymUk/react_dev-coasts.git/index.html",
+    "main.7546986e.css.map": "/vadymUk/react_dev-coasts.git/static/css/main.7546986e.css.map",
+    "main.3212b6db.js.map": "/vadymUk/react_dev-coasts.git/static/js/main.3212b6db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7546986e.css",
+    "static/js/main.3212b6db.js"
+  ]
+}
